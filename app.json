@@ -8,6 +8,6 @@
     ],
     "env": {},
     "website": "",
-    "repository": "",
+    "repository": "https://github.com/anhdhbn/heroku-novnc.git",
     "stack": "container"
 }
